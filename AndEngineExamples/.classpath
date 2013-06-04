@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="/AndEngine/bin/andengine.jar"/>
+	<classpathentry kind="lib" path="/AndEngineAugmentedRealityExtension/bin/andengineaugmentedrealityextension.jar"/>
+	<classpathentry kind="lib" path="/AndEngineLiveWallpaperExtension/bin/andenginelivewallpaperextension.jar"/>
+	<classpathentry kind="lib" path="/AndEngineMODPlayerExtension/bin/andenginemodplayerextension.jar"/>
+	<classpathentry kind="lib" path="/AndEngineMultiplayerExtension/bin/andenginemultiplayerextension.jar"/>
+	<classpathentry kind="lib" path="/AndEnginePhysicsBox2DExtension/bin/andenginephysicsbox2dextension.jar"/>
+	<classpathentry kind="lib" path="/AndEngineSVGTextureRegionExtension/bin/andenginesvgtextureregionextension.jar"/>
+	<classpathentry kind="lib" path="/AndEngineTexturePackerExtension/bin/andenginetexturepackerextension.jar"/>
+	<classpathentry kind="lib" path="/AndEngineTMXTiledMapExtension/bin/andenginetmxtiledmapextension.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
