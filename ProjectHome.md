@@ -1,0 +1,1 @@
+This is an android poker game of Chinese city Tonghua, the game's name is PaoYao. It's exercise project to learning android develop. I hope that the game would be run OK.That's all.
